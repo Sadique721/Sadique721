@@ -1,3 +1,21 @@
+<!-- ========== NEW: ANIMATED HEADER BANNER ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=Md%20Sadique%20Amin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%">
+</p>
+
+<!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Developer;Full+Stack+Engineer;AI+Integration+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG">
+</p>
+
+<!-- ========== NEW: PROFILE VIEWS + FOLLOWERS BADGE ========== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sadique721&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sadique721?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Sadique721?label=Stars&style=social" alt="GitHub stars">
+</p>
+
+<!-- ========== EXISTING CONTENT STARTS HERE ========== -->
 ## Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm **Md Sadique Amin**  
@@ -103,3 +121,153 @@ Currently pursuing B.E. in Computer Science & Engineering
 ---
 
 *“Code. Create. Decentralize.”*
+
+<!-- ========== NEW SECTIONS START HERE ========== -->
+
+<!-- ========== 4. TROPHY SECTION ========== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadique721&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+<!-- ========== 5. CONTRIBUTION SNAKE ANIMATION ========== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadique721/Sadique721/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadique721/Sadique721/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sadique721/Sadique721/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- ========== 6. DEV QUOTE SECTION ========== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote">
+</p>
+
+<!-- ========== 7. SKILLS PROGRESS VISUALIZATION ========== -->
+<h3 align="center">⚡ Technical Proficiency</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-90%25-22d3ee?style=flat-square&logo=java&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Spring%20Boot-85%25-22d3ee?style=flat-square&logo=spring-boot&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Python-80%25-22d3ee?style=flat-square&logo=python&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/JavaScript-75%25-22d3ee?style=flat-square&logo=javascript&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/MySQL-85%25-22d3ee?style=flat-square&logo=mysql&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/AI%2FML-70%25-22d3ee?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a192f">
+</p>
+
+<!-- ========== 8. PROJECT HIGHLIGHTS (ADVANCED CARDS) ========== -->
+<h3 align="center">🚀 Featured Project Highlights</h3>
+
+<p align="center">
+  <a href="https://github.com/Sadique721/Entitykart">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=Entitykart&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+  </a>
+  <a href="https://github.com/Sadique721/AI-Agent-MSA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=AI-Agent-MSA&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sadique721/ethical-hacking-portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=ethical-hacking-portal&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+  </a>
+  <a href="https://github.com/Sadique721/Recipe-finder-pro-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=Recipe-finder-pro-&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+  </a>
+</p>
+
+<!-- ========== 9. ACHIEVEMENTS & CERTIFICATIONS ========== -->
+<h3 align="center">🏅 Achievements & Certifications</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Certification-OCJP%20Style-22d3ee?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Certified-22d3ee?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-22d3ee?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Study%20Track-22d3ee?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
+
+<p align="center">
+  🎓 <strong>Academic Excellence</strong> – Top 10% in department, College Merit Scholarship (2024‑25)<br>
+  🏆 <strong>Project Recognition</strong> – EntityKart selected for Best Project Showcase at GEC Patan Tech Fest 2025<br>
+  💡 <strong>Hackathon Finalist</strong> – Smart India Hackathon 2025 (Software Edition)<br>
+  📝 <strong>Technical Blogger</strong> – 5+ tutorials on Medium with 10k+ reads<br>
+  🌟 <strong>Open Source Contributor</strong> – 2 accepted PRs to a CRUD generator tool
+</p>
+
+<!-- ========== 10. CODING PROFILES SECTION ========== -->
+<h3 align="center">💻 Coding Profiles</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/Sadique721/"><img src="https://img.shields.io/badge/LeetCode-Sadique721-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/mdsadiqueamin71"><img src="https://img.shields.io/badge/HackerRank-mdsadiqueamin71-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/sadique721"><img src="https://img.shields.io/badge/CodeChef-sadique721-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Sadique721"><img src="https://img.shields.io/badge/Codeforces-Sadique721-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+</p>
+
+<!-- ========== 11. WEEKLY DEVELOPMENT BREAKDOWN ========== -->
+<h3 align="center">📅 Weekly Dev Breakdown</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadique721&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&layout=compact&range=last_7_days" alt="Wakatime Stats">
+</p>
+
+<!-- ========== 12. SUPPORT / SPONSOR SECTION ========== -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sadique721"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+  <a href="https://ko-fi.com/sadique721"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</p>
+
+<!-- ========== 13. FOOTER WAVE ANIMATION ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=120&section=footer&width=100%">
+</p>
+
+<!-- ========== NEW SECTIONS ADDED PER LATEST REQUEST ========== -->
+
+<!-- 1. 🔥 ACHIEVEMENT HIGHLIGHT BANNER (PLACEMENT RECOGNITION) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:22d3ee&height=80&section=header&text=🏆%20PLACEMENT%20ACHIEVED%20🏆&fontSize=30&fontColor=ffffff&animation=blinking" width="100%">
+</p>
+
+<!-- 2. 🏆 ACHIEVEMENTS & RECOGNITION (EXPANDED) -->
+## 🏆 Major Career Achievement – Placement Recognition
+
+> **Recognized by Royal Technosoft Pvt. Limited** for successfully placing **Md Sadique Amin** at **SHREE INFOTECH** as a **Java Developer**.
+
+I am deeply honored to share that my technical skills, consistency, and dedication have been officially recognized by **Royal Technosoft Pvt. Limited** – a leading recruitment and training partner. This achievement marks a significant milestone in my journey as a software engineer.
+
+**Key Highlights:**
+
+- ✅ **Selected as Java Developer** at **SHREE INFOTECH** – a fast‑growing IT solutions company.
+- ✅ Recognized by **Royal Technosoft Pvt. Limited** with a formal achievement award.
+- ✅ The award citation reads:  
+  > *"Wishing continued success and career growth"* – Royal Technosoft Pvt. Limited
+
+- ✅ This placement validates my strong foundation in **Java, Spring Boot, and full‑stack development**.
+
+**Reflection:**  
+This achievement is not just a job offer – it's a testament to years of late‑night debugging, countless projects, and an unwavering passion for coding. I'm excited to bring my energy, problem‑solving mindset, and technical expertise to SHREE INFOTECH and contribute to impactful software solutions.
+
+---
+
+### 🎓 Academic & Internship Achievements
+
+- 🥇 **Top 10%** in Department (CSE) – Consecutive semesters
+- 🏅 **College Merit Scholarship** (2024‑25)
+- 🏆 **Best Project Award** – EntityKart e‑commerce platform at GEC Patan Tech Fest 2025
+- 💻 **Smart India Hackathon 2025 Finalist** – Software edition
+- 📄 **Published Technical Writer** – 5+ articles on Java, Spring Boot (10k+ reads)
+- 🔧 **Open Source Contributor** – 2 merged PRs to a CRUD generator tool
+
+---
+
+### 💼 Career Milestone Timeline
+
+```mermaid
+timeline
+    title My Professional Journey
+    section Education
+      2021-2023 : Diploma in CS<br>MANUU Polytechnic<br>87.3%
+      2023-2026 : B.E. Computer Science<br>GEC Patan<br>7.9 CGPA
+    section Internships
+      2022 (Jun-Jul) : Industrial Trainee @ BSNL<br>Telecom & Cyber Security
+      2022-2023 (Sep-Jan) : Web Dev Intern @ TechnoFly<br>Django + React.js
+    section Placement
+      2025 : Selected as Java Developer<br>@ SHREE INFOTECH<br>Recognized by Royal Technosoft
