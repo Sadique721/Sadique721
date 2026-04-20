@@ -19,7 +19,7 @@
 ## Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm **Md Sadique Amin**  
-Software Engineer | Problem Solver | Web & Java Developer  
+Software Engineer | Problem Solver | Web & Java Developer |Md Sadique Amin | Full Stack Developer | Java & Python | AI Engineer | Data Scientist
 Currently pursuing B.E. in Computer Science & Engineering  
 
 ---
