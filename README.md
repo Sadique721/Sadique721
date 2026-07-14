@@ -203,6 +203,9 @@ Currently pursuing B.E. in Computer Science & Engineering
   <a href="https://github.com/Sadique721?tab=achievements">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" style="margin: 10px;" />
   </a>
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" style="margin: 10px;" />
+  </a>
   <a href="https://github.com/Sadique721">
     <img src="image_mention_badge.png" width="95" alt="Image Mention" style="margin: 10px;" />
   </a>
@@ -211,6 +214,7 @@ Currently pursuing B.E. in Computer Science & Engineering
   <strong>Pull Shark (Silver)</strong> &nbsp;•&nbsp; 
   <strong>Quickdraw</strong> &nbsp;•&nbsp; 
   <strong>YOLO</strong> &nbsp;•&nbsp; 
+  <strong>Pair Extraordinaire</strong> &nbsp;•&nbsp; 
   <strong>Image Mention (AI Custom)</strong>
 </p>
 
