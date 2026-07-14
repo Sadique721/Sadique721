@@ -194,11 +194,24 @@ Currently pursuing B.E. in Computer Science & Engineering
 <!-- ========== GITHUB ACHIEVEMENTS ========== -->
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="image_mention_badge.png" width="130" alt="Image Mention Badge" />
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-silver.png" width="95" alt="Pull Shark x3" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/Sadique721">
+    <img src="image_mention_badge.png" width="95" alt="Image Mention" style="margin: 10px;" />
+  </a>
 </p>
 <p align="center">
-  <strong>Image Mention Badge</strong><br>
-  <em>Awarded for outstanding AI image generation and integration into GitHub repository workflows.</em>
+  <strong>Pull Shark (Silver)</strong> &nbsp;•&nbsp; 
+  <strong>Quickdraw</strong> &nbsp;•&nbsp; 
+  <strong>YOLO</strong> &nbsp;•&nbsp; 
+  <strong>Image Mention (AI Custom)</strong>
 </p>
 
 ---
