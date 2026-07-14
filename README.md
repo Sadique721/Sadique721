@@ -66,8 +66,8 @@ Currently pursuing B.E. in Computer Science & Engineering
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadique721&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadique721&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sadique721&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Sadique721&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadique721&theme=tokyonight&hide_border=true&background=0a192f&stroke=22d3ee&ring=22d3ee&fire=8b5cf6)
 
@@ -124,9 +124,9 @@ Currently pursuing B.E. in Computer Science & Engineering
 
 <!-- ========== NEW SECTIONS START HERE ========== -->
 
-<!-- ========== 4. TROPHY SECTION ========== -->
+<!-- ========== 4. PROFILE SUMMARY CARD SECTION ========== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadique721&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadique721&theme=tokyonight" alt="GitHub Profile Details">
 </p>
 
 <!-- ========== 5. CONTRIBUTION SNAKE ANIMATION ========== -->
@@ -158,18 +158,18 @@ Currently pursuing B.E. in Computer Science & Engineering
 
 <p align="center">
   <a href="https://github.com/Sadique721/Entitykart">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=Entitykart&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Sadique721&repo=Entitykart&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
   </a>
   <a href="https://github.com/Sadique721/AI-Agent-MSA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=AI-Agent-MSA&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Sadique721&repo=AI-Agent-MSA&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Sadique721/ethical-hacking-portal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=ethical-hacking-portal&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Sadique721&repo=ethical-hacking-portal&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
   </a>
   <a href="https://github.com/Sadique721/Recipe-finder-pro-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadique721&repo=Recipe-finder-pro-&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Sadique721&repo=Recipe-finder-pro-&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" />
   </a>
 </p>
 
@@ -195,7 +195,7 @@ Currently pursuing B.E. in Computer Science & Engineering
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-silver.png" width="95" alt="Pull Shark x3" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95" alt="Pull Shark x3" style="margin: 10px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" style="margin: 10px;" />
@@ -234,7 +234,7 @@ Currently pursuing B.E. in Computer Science & Engineering
 <h3 align="center">📅 Weekly Dev Breakdown</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadique721&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&layout=compact&range=last_7_days" alt="Wakatime Stats">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Sadique721&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&layout=compact&range=last_7_days" alt="Wakatime Stats">
 </p>
 
 <!-- ========== 12. SUPPORT / SPONSOR SECTION ========== -->
