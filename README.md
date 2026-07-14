@@ -191,6 +191,18 @@ Currently pursuing B.E. in Computer Science & Engineering
   🌟 <strong>Open Source Contributor</strong> – 2 accepted PRs to a CRUD generator tool
 </p>
 
+<!-- ========== GITHUB ACHIEVEMENTS ========== -->
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="image_mention_badge.png" width="130" alt="Image Mention Badge" />
+</p>
+<p align="center">
+  <strong>Image Mention Badge</strong><br>
+  <em>Awarded for outstanding AI image generation and integration into GitHub repository workflows.</em>
+</p>
+
+---
+
 <!-- ========== 10. CODING PROFILES SECTION ========== -->
 <h3 align="center">💻 Coding Profiles</h3>
 
