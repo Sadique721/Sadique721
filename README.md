@@ -271,12 +271,12 @@ Currently pursuing B.E. in Computer Science & Engineering
   <a href="https://codeforces.com/profile/Sadique721"><img src="https://img.shields.io/badge/Codeforces-Sadique721-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
-<!-- ========== 11. GITHUB PROFILE TROPHIES & MILESTONES ========== -->
-<h3 align="center">🏆 GitHub Profile Trophies & Milestones</h3>
+<!-- ========== 11. GITHUB STATS & MILESTONES ========== -->
+<h3 align="center">🏆 GitHub Stats & Milestones</h3>
 
 <p align="center">
   <a href="https://github.com/Sadique721">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sadique721&theme=tokyonight&margin-w=15&row=1&column=6" alt="Sadique721 GitHub Trophies" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Sadique721&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" alt="Sadique721 GitHub Stats" />
   </a>
 </p>
 
