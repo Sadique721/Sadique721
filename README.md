@@ -22,8 +22,27 @@
 ## Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm **Md Sadique Amin**  
-Software Engineer | Problem Solver | Web & Java Developer |Md Sadique Amin | Full Stack Developer | Java & Python | AI Engineer | Data Scientist
+Software Engineer | Problem Solver | Web & Java Developer | Full Stack Developer | Java & Python | AI Engineer  
 Currently pursuing B.E. in Computer Science & Engineering  
+
+```bash
+sadique721@developer-machine:~$ neofetch
+--------------------------------------------------------------
+  OS          : Linux / Windows 11 Enterprise
+  Role        : Java Developer @ SHREE INFOTECH
+  Recognition : Recognized by Royal Technosoft Pvt. Limited
+  Core Stack  : Java 17/21, Spring Boot 3, Microservices, REST APIs
+  Secondary   : Python, Django, React.js, MySQL, Docker, Kafka
+  Education   : B.E. CSE @ GEC Patan | Diploma CS @ MANUU (87.3%)
+  Status      : Open for AI/ML & Enterprise Java Collaboration
+--------------------------------------------------------------
+```
+
+<p align="center">
+  <a href="https://myportfoliositesadique.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-22d3ee?style=for-the-badge&labelColor=0a192f"></a>
+  <a href="mailto:mdsadiqueamin721786@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-8b5cf6?style=for-the-badge&labelColor=0a192f"></a>
+  <a href="https://www.linkedin.com/in/md-sadique-amin-b6a948198/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-10b981?style=for-the-badge&labelColor=0a192f"></a>
+</p>
 
 ---
 
@@ -278,7 +297,16 @@ Currently pursuing B.E. in Computer Science & Engineering
   <a href="https://github.com/Sadique721">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Sadique721&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" alt="Sadique721 GitHub Stats" />
   </a>
-</p>
+<!-- ========== 12. AUTOMATED RECENT GITHUB ACTIVITY ========== -->
+<h3 align="center">⚡ Recent GitHub Activity</h3>
+
+<!--START_SECTION:activity-->
+* 📝 Merged pull request in [Sadique721/Sadique721](https://github.com/Sadique721/Sadique721)
+* 🚀 Pushed commits to [Sadique721/Sadique721](https://github.com/Sadique721/Sadique721)
+* 🌟 Starred [Sadique721/Entitykart](https://github.com/Sadique721/Entitykart)
+<!--END_SECTION:activity-->
+
+<br>
 
 <!-- ========== 12. SUPPORT / SPONSOR SECTION ========== -->
 <p align="center">
