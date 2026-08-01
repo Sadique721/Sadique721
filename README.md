@@ -8,13 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Developer;Full+Stack+Engineer;AI+Integration+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG">
 </p>
 
-<!-- ========== PROFILE METRICS & STATS SHIELDS ========== -->
+<!-- ========== NEW: PROFILE VIEWS + FOLLOWERS BADGE ========== -->
+<!-- ========== ORIGINAL & ENHANCED PROFILE VIEWS + FOLLOWERS BADGES ========== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sadique721&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sadique721?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Sadique721?label=Stars&style=social" alt="GitHub stars">
+</p>
+
 <p align="center">
   <a href="https://github.com/Sadique721?tab=followers"><img src="https://img.shields.io/github/followers/Sadique721?label=Followers&style=for-the-badge&logo=github&color=22d3ee&labelColor=0a192f" alt="Followers"></a>
   <a href="https://github.com/Sadique721?tab=following"><img src="https://img.shields.io/badge/Following-3-8b5cf6?style=for-the-badge&logo=github&labelColor=0a192f" alt="Following"></a>
   <a href="https://github.com/Sadique721?tab=repositories"><img src="https://img.shields.io/badge/Repositories-19-10b981?style=for-the-badge&logo=github&labelColor=0a192f" alt="Repositories"></a>
-  <a href="https://github.com/Sadique721?tab=stars"><img src="https://img.shields.io/github/stars/Sadique721?label=Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=0a192f" alt="Stars"></a>
-  <img src="https://komarev.com/ghpvc/?username=Sadique721&label=Profile%20Views&color=22d3ee&style=for-the-badge&labelColor=0a192f" alt="Profile views" />
+  <a href="https://github.com/Sadique721?tab=stars"><img src="https://img.shields.io/badge/Stars-2-f59e0b?style=for-the-badge&logo=github&labelColor=0a192f" alt="Stars"></a>
   <a href="#-major-career-achievement--placement-recognition"><img src="https://img.shields.io/badge/Status-Java%20Developer%20%40%20Keyanna%20Technology%20Pvt%20Ltd%2C%20Ahmedabad-10b981?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a192f" alt="Placement Status"></a>
 </p>
 
@@ -22,7 +28,7 @@
 ## Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm **Md Sadique Amin**  
-Software Engineer | Problem Solver | Web & Java Developer | Full Stack Developer | Java & Python | AI Engineer  
+Software Engineer | Problem Solver | Web & Java Developer |Md Sadique Amin | Full Stack Developer | Java & Python | AI Engineer | Data Scientist  
 Currently pursuing B.E. in Computer Science & Engineering  
 
 ```text
@@ -87,6 +93,16 @@ Currently pursuing B.E. in Computer Science & Engineering
 | **AI/ML** | TensorFlow, PyTorch, Scikit‑learn, OpenCV, NLTK |
 | **Data Science** | Pandas, NumPy, Matplotlib, Tableau |
 | **DevOps & Tools** | Git, GitHub, Docker, AWS (EC2/S3), Kafka, Spark |
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -169,6 +185,7 @@ Currently pursuing B.E. in Computer Science & Engineering
 
 <!-- ========== NEW SECTIONS START HERE ========== -->
 
+<!-- ========== 4. PROFILE SUMMARY CARD SECTION ========== -->
 <!-- ========== 4. PROFILE ACTIVITY GRAPH SECTION ========== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadique721&theme=tokyo-night&hide_border=true&bg_color=0a192f&color=22d3ee&line=8b5cf6&point=ffffff&area=true" alt="GitHub Activity Graph">
@@ -187,6 +204,16 @@ Currently pursuing B.E. in Computer Science & Engineering
 </p>
 
 <!-- ========== 7. SKILLS PROGRESS VISUALIZATION ========== -->
+<h3 align="center">⚡ Technical Proficiency</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-90%25-22d3ee?style=flat-square&logo=java&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Spring%20Boot-85%25-22d3ee?style=flat-square&logo=spring-boot&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Python-80%25-22d3ee?style=flat-square&logo=python&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/JavaScript-75%25-22d3ee?style=flat-square&logo=javascript&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/MySQL-85%25-22d3ee?style=flat-square&logo=mysql&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/AI%2FML-70%25-22d3ee?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a192f">
+</p>
+
 <h3 align="center">⚡ Technical Proficiency & Specializations</h3>
 
 <p align="center">
@@ -227,7 +254,15 @@ Currently pursuing B.E. in Computer Science & Engineering
 </p>
 
 <!-- ========== 9. ACHIEVEMENTS & CERTIFICATIONS ========== -->
-<h3 align="center">🏅 Achievements, Certifications & Skill Badges</h3>
+<!-- ========== GITHUB ACHIEVEMENTS ========== -->
+<h3 align="center">🏅 Achievements & Certifications</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Certification-OCJP%20Style-22d3ee?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Certified-22d3ee?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-22d3ee?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Study%20Track-22d3ee?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java%20Developer-Keyanna%20Technology%20Pvt%20Ltd%2C%20Ahmedabad-10b981?style=for-the-badge&logo=java&logoColor=white">
@@ -313,6 +348,7 @@ Currently pursuing B.E. in Computer Science & Engineering
   <a href="https://codeforces.com/profile/Sadique721"><img src="https://img.shields.io/badge/Codeforces-Sadique721-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
+<!-- ========== 11. WEEKLY DEVELOPMENT BREAKDOWN ========== -->
 <!-- ========== 11. GITHUB STATS & MILESTONES ========== -->
 <h3 align="center">🏆 GitHub Stats & Milestones</h3>
 
@@ -320,6 +356,8 @@ Currently pursuing B.E. in Computer Science & Engineering
   <a href="https://github.com/Sadique721">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Sadique721&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=8b5cf6" alt="Sadique721 GitHub Stats" />
   </a>
+</p>
+
 <!-- ========== 12. AUTOMATED RECENT GITHUB ACTIVITY ========== -->
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 
@@ -352,13 +390,13 @@ Currently pursuing B.E. in Computer Science & Engineering
 <!-- 2. 🏆 ACHIEVEMENTS & RECOGNITION (EXPANDED) -->
 ## 🏆 Major Career Achievement – Placement Recognition
 
-> **Recognized by Royal Technosoft Pvt. Limited** for successfully placing **Md Sadique Amin** at **Keyanna Technology Pvt Ltd, Ahmedabad** as a **Java Developer**.
+> **Recognized by Royal Technosoft Pvt. Limited** for successfully placing **Md Sadique Amin** at **Keyanna Technology Pvt Ltd, Ahmedabad** as a **Java Developer** (SHREE INFOTECH Placement Track).
 
 I am deeply honored to share that my technical skills, consistency, and dedication have been officially recognized by **Royal Technosoft Pvt. Limited** – a leading recruitment and training partner. This achievement marks a significant milestone in my journey as a software engineer.
 
 **Key Highlights:**
 
-- ✅ **Selected as Java Developer** at **Keyanna Technology Pvt Ltd, Ahmedabad** – a fast‑growing IT solutions company.
+- ✅ **Selected as Java Developer** at **Keyanna Technology Pvt Ltd, Ahmedabad** (SHREE INFOTECH Placement Track) – a fast‑growing IT solutions company.
 - ✅ Recognized by **Royal Technosoft Pvt. Limited** with a formal achievement award.
 - ✅ The award citation reads:  
   > *"Wishing continued success and career growth"* – Royal Technosoft Pvt. Limited
@@ -393,4 +431,5 @@ timeline
       2022 (Jun-Jul) : Industrial Trainee @ BSNL<br>Telecom & Cyber Security
       2022-2023 (Sep-Jan) : Web Dev Intern @ TechnoFly<br>Django + React.js
     section Placement
-      2025 : Selected as Java Developer<br>@ Keyanna Technology Pvt Ltd, Ahmedabad<br>Recognized by Royal Technosoft
+      2025 : Selected as Java Developer<br>@ Keyanna Technology Pvt Ltd, Ahmedabad (SHREE INFOTECH)<br>Recognized by Royal Technosoft
+```
