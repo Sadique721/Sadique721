@@ -186,9 +186,8 @@ Currently pursuing B.E. in Computer Science & Engineering
 <!-- ========== NEW SECTIONS START HERE ========== -->
 
 <!-- ========== 4. PROFILE SUMMARY CARD SECTION ========== -->
-<!-- ========== 4. PROFILE ACTIVITY GRAPH SECTION ========== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadique721&theme=tokyo-night&hide_border=true&bg_color=0a192f&color=22d3ee&line=8b5cf6&point=ffffff&area=true" alt="GitHub Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadique721&theme=tokyonight" alt="GitHub Profile Details">
 </p>
 
 <!-- ========== 5. CONTRIBUTION SNAKE ANIMATION ========== -->
