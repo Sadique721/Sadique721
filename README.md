@@ -145,15 +145,23 @@ Currently pursuing B.E. in Computer Science & Engineering
 </p>
 
 <!-- ========== 7. SKILLS PROGRESS VISUALIZATION ========== -->
-<h3 align="center">⚡ Technical Proficiency</h3>
+<h3 align="center">⚡ Technical Proficiency & Specializations</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-90%25-22d3ee?style=flat-square&logo=java&logoColor=white&labelColor=0a192f">
-  <img src="https://img.shields.io/badge/Spring%20Boot-85%25-22d3ee?style=flat-square&logo=spring-boot&logoColor=white&labelColor=0a192f">
-  <img src="https://img.shields.io/badge/Python-80%25-22d3ee?style=flat-square&logo=python&logoColor=white&labelColor=0a192f">
-  <img src="https://img.shields.io/badge/JavaScript-75%25-22d3ee?style=flat-square&logo=javascript&logoColor=white&labelColor=0a192f">
-  <img src="https://img.shields.io/badge/MySQL-85%25-22d3ee?style=flat-square&logo=mysql&logoColor=white&labelColor=0a192f">
-  <img src="https://img.shields.io/badge/AI%2FML-70%25-22d3ee?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Java%2017%2F21-95%25-22d3ee?style=flat-square&logo=java&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Spring%20Boot%203-90%25-6db33f?style=flat-square&logo=spring-boot&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Microservices-90%25-8b5cf6?style=flat-square&logo=spring&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/RESTful%20APIs-95%25-10b981?style=flat-square&logo=postman&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Spring%20Cloud-85%25-6db33f?style=flat-square&logo=spring&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Kafka%20Events-80%25-f59e0b?style=flat-square&logo=apache-kafka&logoColor=white&labelColor=0a192f">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-85%25-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/React.js-80%25-61dafb?style=flat-square&logo=react&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/MySQL%20%26%20Postgres-85%25-4479a1?style=flat-square&logo=mysql&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/Docker%20Containers-80%25-2496ed?style=flat-square&logo=docker&logoColor=white&labelColor=0a192f">
+  <img src="https://img.shields.io/badge/AI%2FML-75%25-ff6f00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a192f">
 </p>
 
 <!-- ========== 8. PROJECT HIGHLIGHTS (ADVANCED CARDS) ========== -->
@@ -177,13 +185,20 @@ Currently pursuing B.E. in Computer Science & Engineering
 </p>
 
 <!-- ========== 9. ACHIEVEMENTS & CERTIFICATIONS ========== -->
-<h3 align="center">🏅 Achievements & Certifications</h3>
+<h3 align="center">🏅 Achievements, Certifications & Skill Badges</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20Certification-OCJP%20Style-22d3ee?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-Certified-22d3ee?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-22d3ee?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Study%20Track-22d3ee?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Developer-SHREE%20INFOTECH-10b981?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Enterprise%20Certified-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Microservices-Architecture%20Pro-8b5cf6?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20OCJP-Style%20Certified-22d3ee?style=for-the-badge&logo=java&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20%26%20Cloud-22d3ee?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20Data%20Science-IBM-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Cloud-Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker%20%26%20DevOps-Engineer-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <p align="center">
