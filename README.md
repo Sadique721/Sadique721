@@ -25,17 +25,20 @@ I'm **Md Sadique Amin**
 Software Engineer | Problem Solver | Web & Java Developer | Full Stack Developer | Java & Python | AI Engineer  
 Currently pursuing B.E. in Computer Science & Engineering  
 
-```bash
-sadique721@developer-machine:~$ neofetch
---------------------------------------------------------------
-  OS          : Linux / Windows 11 Enterprise
-  Role        : Java Developer @ SHREE INFOTECH
-  Recognition : Recognized by Royal Technosoft Pvt. Limited
-  Core Stack  : Java 17/21, Spring Boot 3, Microservices, REST APIs
-  Secondary   : Python, Django, React.js, MySQL, Docker, Kafka
-  Education   : B.E. CSE @ GEC Patan | Diploma CS @ MANUU (87.3%)
-  Status      : Open for AI/ML & Enterprise Java Collaboration
---------------------------------------------------------------
+```text
+┌──(sadique721⚡developer-machine)-[~]
+└─$ neofetch -------------------------------------------------------------------┐
+│                                                                               │
+│   💻 OS          : Linux (Ubuntu 24.04 LTS) | Windows 11 Enterprise       │
+│   💼 Role        : ☕ Java Developer @ SHREE INFOTECH                         │
+│   🏆 Recognition : 🎖️ Recognized by Royal Technosoft Pvt. Limited            │
+│   ⚡ Core Stack  : ☕ Java 17/21 • 🌱 Spring Boot 3 • 🧱 Microservices         │
+│   🛠️ Secondary   : 🐍 Python • ⚛️ React.js • 🐬 MySQL • 🐳 Docker • 🚀 Kafka     │
+│   🎓 Education   : 📜 B.E. CSE @ GEC Patan | 🎓 Diploma CS @ MANUU (87.3%)     │
+│   🚀 Status      : 🟢 Open for AI/ML & Enterprise Java Collaboration          │
+│   📫 Contact     : 📧 mdsadiqueamin721786@gmail.com                            │
+│                                                                               │
+└-------------------------------------------------------------------------------┘
 ```
 
 <p align="center">
