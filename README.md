@@ -41,6 +41,17 @@ Currently pursuing B.E. in Computer Science & Engineering
 └-------------------------------------------------------------------------------┘
 ```
 
+<!-- ========== ULTRA-STYLISH DUAL-TONE BOX MATRIX ========== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20OS-Linux%20(Ubuntu)%20%7C%20Windows%2011%20Enterprise-22d3ee?style=for-the-badge&labelColor=0a192f" alt="OS Badge"><br>
+  <img src="https://img.shields.io/badge/💼%20Role-Java%20Developer%20%40%20Keyanna%20Technology%20Pvt%20Ltd%2C%20Ahmedabad-10b981?style=for-the-badge&labelColor=0a192f" alt="Role Badge"><br>
+  <img src="https://img.shields.io/badge/🏆%20Recognition-Recognized%20by%20Royal%20Technosoft%20Pvt.%20Limited-f59e0b?style=for-the-badge&labelColor=0a192f" alt="Recognition Badge"><br>
+  <img src="https://img.shields.io/badge/☕%20Core%20Stack-Java%2017%2F21%20%7C%20Spring%20Boot%203%20%7C%20Microservices-8b5cf6?style=for-the-badge&labelColor=0a192f" alt="Core Stack Badge"><br>
+  <img src="https://img.shields.io/badge/🛠️%20Secondary-Python%20%7C%20React.js%20%7C%20MySQL%20%7C%20Docker%20%7C%20Kafka-ec4899?style=for-the-badge&labelColor=0a192f" alt="Secondary Stack Badge"><br>
+  <img src="https://img.shields.io/badge/🎓%20Education-B.E.%20CSE%20%40%20GEC%20Patan%20%7C%20Diploma%20CS%20%40%20MANUU-3b82f6?style=for-the-badge&labelColor=0a192f" alt="Education Badge"><br>
+  <img src="https://img.shields.io/badge/🚀%20Status-Open%20for%20AI%2FML%20%26%20Enterprise%20Java-10b981?style=for-the-badge&labelColor=0a192f" alt="Status Badge">
+</p>
+
 <p align="center">
   <a href="https://myportfoliositesadique.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-22d3ee?style=for-the-badge&labelColor=0a192f"></a>
   <a href="mailto:mdsadiqueamin721786@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-8b5cf6?style=for-the-badge&labelColor=0a192f"></a>
