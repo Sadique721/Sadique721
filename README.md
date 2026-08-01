@@ -15,7 +15,7 @@
   <a href="https://github.com/Sadique721?tab=repositories"><img src="https://img.shields.io/badge/Repositories-19-10b981?style=for-the-badge&logo=github&labelColor=0a192f" alt="Repositories"></a>
   <a href="https://github.com/Sadique721?tab=stars"><img src="https://img.shields.io/github/stars/Sadique721?label=Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=0a192f" alt="Stars"></a>
   <img src="https://komarev.com/ghpvc/?username=Sadique721&label=Profile%20Views&color=22d3ee&style=for-the-badge&labelColor=0a192f" alt="Profile views" />
-  <a href="#-major-career-achievement--placement-recognition"><img src="https://img.shields.io/badge/Status-Java%20Developer%20%40%20SHREE%20INFOTECH-10b981?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a192f" alt="Placement Status"></a>
+  <a href="#-major-career-achievement--placement-recognition"><img src="https://img.shields.io/badge/Status-Java%20Developer%20%40%20Keyanna%20Technology%20Pvt%20Ltd%2C%20Ahmedabad-10b981?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a192f" alt="Placement Status"></a>
 </p>
 
 <!-- ========== EXISTING CONTENT STARTS HERE ========== -->
@@ -30,7 +30,7 @@ Currently pursuing B.E. in Computer Science & Engineering
 └─$ neofetch -------------------------------------------------------------------┐
 │                                                                               │
 │   💻 OS          : Linux (Ubuntu 24.04 LTS) | Windows 11 Enterprise       │
-│   💼 Role        : ☕ Java Developer @ SHREE INFOTECH                         │
+│   💼 Role        : ☕ Java Developer @ Keyanna Technology Pvt Ltd, Ahmedabad  │
 │   🏆 Recognition : 🎖️ Recognized by Royal Technosoft Pvt. Limited            │
 │   ⚡ Core Stack  : ☕ Java 17/21 • 🌱 Spring Boot 3 • 🧱 Microservices         │
 │   🛠️ Secondary   : 🐍 Python • ⚛️ React.js • 🐬 MySQL • 🐳 Docker • 🚀 Kafka     │
@@ -210,7 +210,7 @@ Currently pursuing B.E. in Computer Science & Engineering
 <h3 align="center">🏅 Achievements, Certifications & Skill Badges</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20Developer-SHREE%20INFOTECH-10b981?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Developer-Keyanna%20Technology%20Pvt%20Ltd%2C%20Ahmedabad-10b981?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-Enterprise%20Certified-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/Microservices-Architecture%20Pro-8b5cf6?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Java%20OCJP-Style%20Certified-22d3ee?style=for-the-badge&logo=java&logoColor=white">
@@ -332,13 +332,13 @@ Currently pursuing B.E. in Computer Science & Engineering
 <!-- 2. 🏆 ACHIEVEMENTS & RECOGNITION (EXPANDED) -->
 ## 🏆 Major Career Achievement – Placement Recognition
 
-> **Recognized by Royal Technosoft Pvt. Limited** for successfully placing **Md Sadique Amin** at **SHREE INFOTECH** as a **Java Developer**.
+> **Recognized by Royal Technosoft Pvt. Limited** for successfully placing **Md Sadique Amin** at **Keyanna Technology Pvt Ltd, Ahmedabad** as a **Java Developer**.
 
 I am deeply honored to share that my technical skills, consistency, and dedication have been officially recognized by **Royal Technosoft Pvt. Limited** – a leading recruitment and training partner. This achievement marks a significant milestone in my journey as a software engineer.
 
 **Key Highlights:**
 
-- ✅ **Selected as Java Developer** at **SHREE INFOTECH** – a fast‑growing IT solutions company.
+- ✅ **Selected as Java Developer** at **Keyanna Technology Pvt Ltd, Ahmedabad** – a fast‑growing IT solutions company.
 - ✅ Recognized by **Royal Technosoft Pvt. Limited** with a formal achievement award.
 - ✅ The award citation reads:  
   > *"Wishing continued success and career growth"* – Royal Technosoft Pvt. Limited
@@ -346,7 +346,7 @@ I am deeply honored to share that my technical skills, consistency, and dedicati
 - ✅ This placement validates my strong foundation in **Java, Spring Boot, and full‑stack development**.
 
 **Reflection:**  
-This achievement is not just a job offer – it's a testament to years of late‑night debugging, countless projects, and an unwavering passion for coding. I'm excited to bring my energy, problem‑solving mindset, and technical expertise to SHREE INFOTECH and contribute to impactful software solutions.
+This achievement is not just a job offer – it's a testament to years of late‑night debugging, countless projects, and an unwavering passion for coding. I'm excited to bring my energy, problem‑solving mindset, and technical expertise to Keyanna Technology Pvt Ltd, Ahmedabad and contribute to impactful software solutions.
 
 ---
 
@@ -373,4 +373,4 @@ timeline
       2022 (Jun-Jul) : Industrial Trainee @ BSNL<br>Telecom & Cyber Security
       2022-2023 (Sep-Jan) : Web Dev Intern @ TechnoFly<br>Django + React.js
     section Placement
-      2025 : Selected as Java Developer<br>@ SHREE INFOTECH<br>Recognized by Royal Technosoft
+      2025 : Selected as Java Developer<br>@ Keyanna Technology Pvt Ltd, Ahmedabad<br>Recognized by Royal Technosoft
