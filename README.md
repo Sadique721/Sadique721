@@ -8,11 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Developer;Full+Stack+Engineer;AI+Integration+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG">
 </p>
 
-<!-- ========== NEW: PROFILE VIEWS + FOLLOWERS BADGE ========== -->
+<!-- ========== PROFILE METRICS & STATS SHIELDS ========== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadique721&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Sadique721?label=Followers&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Sadique721?label=Stars&style=social" alt="GitHub stars">
+  <a href="https://github.com/Sadique721?tab=followers"><img src="https://img.shields.io/github/followers/Sadique721?label=Followers&style=for-the-badge&logo=github&color=22d3ee&labelColor=0a192f" alt="Followers"></a>
+  <a href="https://github.com/Sadique721?tab=following"><img src="https://img.shields.io/badge/Following-3-8b5cf6?style=for-the-badge&logo=github&labelColor=0a192f" alt="Following"></a>
+  <a href="https://github.com/Sadique721?tab=repositories"><img src="https://img.shields.io/badge/Repositories-19-10b981?style=for-the-badge&logo=github&labelColor=0a192f" alt="Repositories"></a>
+  <a href="https://github.com/Sadique721?tab=stars"><img src="https://img.shields.io/github/stars/Sadique721?label=Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=0a192f" alt="Stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=Sadique721&label=Profile%20Views&color=22d3ee&style=for-the-badge&labelColor=0a192f" alt="Profile views" />
+  <a href="#-major-career-achievement--placement-recognition"><img src="https://img.shields.io/badge/Status-Java%20Developer%20%40%20SHREE%20INFOTECH-10b981?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a192f" alt="Placement Status"></a>
 </p>
 
 <!-- ========== EXISTING CONTENT STARTS HERE ========== -->
@@ -191,23 +194,23 @@ Currently pursuing B.E. in Computer Science & Engineering
   🌟 <strong>Open Source Contributor</strong> – 2 accepted PRs to a CRUD generator tool
 </p>
 
-<!-- ========== GITHUB ACHIEVEMENTS ========== -->
-<h3 align="center">🏆 GitHub Achievements</h3>
+<!-- ========== GITHUB & CUSTOM ACHIEVEMENTS ========== -->
+<h3 align="center">🏆 GitHub & Custom Achievements</h3>
 <p align="center">
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95" alt="Pull Shark x3" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95" alt="Pull Shark (Silver)" title="Pull Shark (Silver) - Merged 2+ Pull Requests" style="margin: 10px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw - Closed Issue/PR within 5 min" style="margin: 10px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO - Merged PR without review" style="margin: 10px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits" style="margin: 10px;" />
   </a>
   <a href="https://github.com/Sadique721">
-    <img src="image_mention_badge.png" width="95" alt="Image Mention" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Sadique721/Sadique721/main/image_mention_badge.png" width="95" alt="Image Mention (AI Custom)" title="Image Mention - AI Custom Achievement Badge" style="margin: 10px;" />
   </a>
 </p>
 <p align="center">
@@ -230,11 +233,13 @@ Currently pursuing B.E. in Computer Science & Engineering
   <a href="https://codeforces.com/profile/Sadique721"><img src="https://img.shields.io/badge/Codeforces-Sadique721-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
-<!-- ========== 11. WEEKLY DEVELOPMENT BREAKDOWN ========== -->
-<h3 align="center">📅 Weekly Dev Breakdown</h3>
+<!-- ========== 11. GITHUB PROFILE TROPHIES & MILESTONES ========== -->
+<h3 align="center">🏆 GitHub Profile Trophies & Milestones</h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Sadique721&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=22d3ee&layout=compact&range=last_7_days" alt="Wakatime Stats">
+  <a href="https://github.com/Sadique721">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sadique721&theme=tokyonight&margin-w=15&row=1&column=6" alt="Sadique721 GitHub Trophies" />
+  </a>
 </p>
 
 <!-- ========== 12. SUPPORT / SPONSOR SECTION ========== -->
