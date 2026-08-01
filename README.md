@@ -196,29 +196,52 @@ Currently pursuing B.E. in Computer Science & Engineering
 
 <!-- ========== GITHUB & CUSTOM ACHIEVEMENTS ========== -->
 <h3 align="center">🏆 GitHub & Custom Achievements</h3>
+
+<!-- Row 1: Unlocked & Featured GitHub Badges -->
 <p align="center">
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95" alt="Pull Shark (Silver)" title="Pull Shark (Silver) - Merged 2+ Pull Requests" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="85" alt="Pull Shark (Silver)" title="Pull Shark (Silver) - Merged 2+ Pull Requests" style="margin: 8px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw - Closed Issue/PR within 5 min" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw - Closed Issue/PR within 5 min" style="margin: 8px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO - Merged PR without review" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="85" alt="YOLO" title="YOLO - Merged PR without review" style="margin: 8px;" />
   </a>
   <a href="https://github.com/Sadique721?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits" style="margin: 8px;" />
   </a>
   <a href="https://github.com/Sadique721">
-    <img src="https://raw.githubusercontent.com/Sadique721/Sadique721/main/image_mention_badge.png" width="95" alt="Image Mention (AI Custom)" title="Image Mention - AI Custom Achievement Badge" style="margin: 10px;" />
+    <img src="https://raw.githubusercontent.com/Sadique721/Sadique721/main/image_mention_badge.png" width="85" alt="Image Mention (AI Custom)" title="Image Mention - AI Custom Achievement Badge" style="margin: 8px;" />
   </a>
 </p>
+
+<!-- Row 2: Specialized & Community Achievement Badges -->
+<p align="center">
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="85" alt="Starstruck" title="Starstruck - Repository Star Achievement" style="margin: 8px;" />
+  </a>
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain - Accepted Answers in Discussions" style="margin: 8px;" />
+  </a>
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="85" alt="Public Sponsor" title="Public Sponsor - Supporting Open Source" style="margin: 8px;" />
+  </a>
+  <a href="https://github.com/Sadique721?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="85" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor - 2020 Code Vault" style="margin: 8px;" />
+  </a>
+</p>
+
 <p align="center">
   <strong>Pull Shark (Silver)</strong> &nbsp;•&nbsp; 
   <strong>Quickdraw</strong> &nbsp;•&nbsp; 
   <strong>YOLO</strong> &nbsp;•&nbsp; 
   <strong>Pair Extraordinaire</strong> &nbsp;•&nbsp; 
-  <strong>Image Mention (AI Custom)</strong>
+  <strong>Image Mention (AI Custom)</strong><br>
+  <strong>Starstruck</strong> &nbsp;•&nbsp; 
+  <strong>Galaxy Brain</strong> &nbsp;•&nbsp; 
+  <strong>Public Sponsor</strong> &nbsp;•&nbsp; 
+  <strong>Arctic Code Vault</strong>
 </p>
 
 ---
