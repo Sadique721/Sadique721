@@ -1,11 +1,17 @@
-<!-- ========== NEW: ANIMATED WAVE HEADER ========== -->
+﻿<!-- ========== NEW: ANIMATED WAVE HEADER ========== -->
 <!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Java%20%2f%20Spring%20Boot%20Backend%20Developer;Full%20Stack%20Engineer;Problem%20Solver%20%26%20AI%20Enthusiast" alt="Typing SVG">
 </p>
 
+<!-- ========== NEW: HIGH QUALITY PROJECT BANNER ========== -->
+<p align="center">
+  <img src="project_banner.svg" width="100%">
+</p>
+
+
 <!-- ========== NEW: AUTHOR & ARCHITECT SECTION ========== -->
-## 👨‍💻 Author & Architect
+## ðŸ‘¨â€ðŸ’» Author & Architect
 
 <table>
 <tr>
@@ -18,11 +24,11 @@
 </td>
 <td>
 
-**Md Sadique Amin** — Backend Java Developer.
+**Md Sadique Amin** â€” Backend Java Developer.
 
-- 🔗 GitHub: [@Sadique721](https://github.com/Sadique721)
-- 📧 Email: mdsadiqueamin721786@gmail.com
-- 🏗️ Built: Enterprise BSS-OSS Telecom Suite, Backend Java Developer, IR Interconnect & Roaming
+- ðŸ”— GitHub: [@Sadique721](https://github.com/Sadique721)
+- ðŸ“§ Email: mdsadiqueamin721786@gmail.com
+- ðŸ—ï¸ Built: Enterprise BSS-OSS Telecom Suite, Backend Java Developer, IR Interconnect & Roaming
 
 </td>
 </tr>
@@ -37,44 +43,44 @@ Personal GitHub Profile README
 
 <!-- ========== NEW SECTIONS ADDED PER LATEST REQUEST ========== -->
 
-<!-- 1. 🔥 ACHIEVEMENT HIGHLIGHT BANNER (PLACEMENT RECOGNITION) -->
+<!-- 1. ðŸ”¥ ACHIEVEMENT HIGHLIGHT BANNER (PLACEMENT RECOGNITION) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:22d3ee&height=80&section=header&text=🏆%20PLACEMENT%20ACHIEVED%20🏆&fontSize=30&fontColor=ffffff&animation=blinking" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:22d3ee&height=80&section=header&text=ðŸ†%20PLACEMENT%20ACHIEVED%20ðŸ†&fontSize=30&fontColor=ffffff&animation=blinking" width="100%">
 </p>
 
-<!-- 2. 🏆 ACHIEVEMENTS & RECOGNITION (EXPANDED) -->
-## 🏆 Major Career Achievement – Placement Recognition
+<!-- 2. ðŸ† ACHIEVEMENTS & RECOGNITION (EXPANDED) -->
+## ðŸ† Major Career Achievement â€“ Placement Recognition
 
 > **Recognized by Royal Technosoft Pvt. Limited** for successfully placing **Md Sadique Amin** at **Keyanna Technology Pvt Ltd, Ahmedabad** as a **Java Developer** (SHREE INFOTECH Placement Track).
 
-I am deeply honored to share that my technical skills, consistency, and dedication have been officially recognized by **Royal Technosoft Pvt. Limited** – a leading recruitment and training partner. This achievement marks a significant milestone in my journey as a software engineer.
+I am deeply honored to share that my technical skills, consistency, and dedication have been officially recognized by **Royal Technosoft Pvt. Limited** â€“ a leading recruitment and training partner. This achievement marks a significant milestone in my journey as a software engineer.
 
 **Key Highlights:**
 
-- ✅ **Selected as Java Developer** at **Keyanna Technology Pvt Ltd, Ahmedabad** (SHREE INFOTECH Placement Track) – a fast‑growing IT solutions company.
-- ✅ Recognized by **Royal Technosoft Pvt. Limited** with a formal achievement award.
-- ✅ The award citation reads:  
-  > *"Wishing continued success and career growth"* – Royal Technosoft Pvt. Limited
+- âœ… **Selected as Java Developer** at **Keyanna Technology Pvt Ltd, Ahmedabad** (SHREE INFOTECH Placement Track) â€“ a fastâ€‘growing IT solutions company.
+- âœ… Recognized by **Royal Technosoft Pvt. Limited** with a formal achievement award.
+- âœ… The award citation reads:  
+  > *"Wishing continued success and career growth"* â€“ Royal Technosoft Pvt. Limited
 
-- ✅ This placement validates my strong foundation in **Java, Spring Boot, and full‑stack development**.
+- âœ… This placement validates my strong foundation in **Java, Spring Boot, and fullâ€‘stack development**.
 
 **Reflection:**  
-This achievement is not just a job offer – it's a testament to years of late‑night debugging, countless projects, and an unwavering passion for coding. I'm excited to bring my energy, problem‑solving mindset, and technical expertise to Keyanna Technology Pvt Ltd, Ahmedabad and contribute to impactful software solutions.
+This achievement is not just a job offer â€“ it's a testament to years of lateâ€‘night debugging, countless projects, and an unwavering passion for coding. I'm excited to bring my energy, problemâ€‘solving mindset, and technical expertise to Keyanna Technology Pvt Ltd, Ahmedabad and contribute to impactful software solutions.
 
 ---
 
-### 🎓 Academic & Internship Achievements
+### ðŸŽ“ Academic & Internship Achievements
 
-- 🥇 **Top 10%** in Department (CSE) – Consecutive semesters
-- 🏅 **College Merit Scholarship** (2024‑25)
-- 🏆 **Best Project Award** – EntityKart e‑commerce platform at GEC Patan Tech Fest 2025
-- 💻 **Smart India Hackathon 2025 Finalist** – Software edition
-- 📄 **Published Technical Writer** – 5+ articles on Java, Spring Boot (10k+ reads)
-- 🔧 **Open Source Contributor** – 2 merged PRs to a CRUD generator tool
+- ðŸ¥‡ **Top 10%** in Department (CSE) â€“ Consecutive semesters
+- ðŸ… **College Merit Scholarship** (2024â€‘25)
+- ðŸ† **Best Project Award** â€“ EntityKart eâ€‘commerce platform at GEC Patan Tech Fest 2025
+- ðŸ’» **Smart India Hackathon 2025 Finalist** â€“ Software edition
+- ðŸ“„ **Published Technical Writer** â€“ 5+ articles on Java, Spring Boot (10k+ reads)
+- ðŸ”§ **Open Source Contributor** â€“ 2 merged PRs to a CRUD generator tool
 
 ---
 
-### 💼 Career Milestone Timeline
+### ðŸ’¼ Career Milestone Timeline
 
 ```mermaid
 timeline
