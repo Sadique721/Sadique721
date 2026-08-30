@@ -5,9 +5,7 @@
 </p>
 
 <!-- ========== NEW: HIGH QUALITY PROJECT BANNER ========== -->
-<p align="center">
-  <img src="project_banner.svg" width="100%">
-</p>
+![Project Banner](project_banner.svg)
 
 
 <!-- ========== NEW: AUTHOR & ARCHITECT SECTION ========== -->
@@ -100,3 +98,4 @@ timeline
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=120&section=footer&width=100%">
 </p>
+
