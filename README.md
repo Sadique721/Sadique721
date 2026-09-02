@@ -1,6 +1,6 @@
 ﻿<!-- ========== NEW: ANIMATED HEADER BANNER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=Md%20Sadique%20Amin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=Md%20Sadique%20Amin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Devloper%20%7C%20Java-Spring-AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%">
 </p>
 
 <!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
