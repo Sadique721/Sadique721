@@ -361,8 +361,8 @@ Currently pursuing B.E. in Computer Science & Engineering
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-* 📝 Merged pull request in [Sadique721/Sadique721](https://github.com/Sadique721/Sadique721)
-* 🚀 Pushed commits to [Sadique721/Sadique721](https://github.com/Sadique721/Sadique721)
+1. 🎉 Merged PR [#1](https://github.com/Sadique721/DealFlow360/pull/1) in [Sadique721/DealFlow360](https://github.com/Sadique721/DealFlow360)
+2. 💪 Opened PR [#1](https://github.com/Sadique721/DealFlow360/pull/1) in [Sadique721/DealFlow360](https://github.com/Sadique721/DealFlow360)
 * 🌟 Starred [Sadique721/Entitykart](https://github.com/Sadique721/Entitykart)
 <!--END_SECTION:activity-->
 
