@@ -678,3 +678,19 @@ graph TD
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:8b5cf6,100:0b0f19&height=110&section=footer&width=100%">
 </p>
+
+
+---
+
+<!-- ========== 17. INTERACTIVE ARCHITECTURAL CONSOLE & COMMUNITY STANDARDS ========== -->
+<h3 align="center">🖥️ Interactive Spec-Driven Development Console</h3>
+
+<p align="center">
+  <a href="https://github.com/Sadique721/Sadique721/blob/main/sdd-showcase.html"><img src="https://img.shields.io/badge/Launch-Interactive%20SDD%20Console-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white&color=0b0f19&labelColor=1f293d" alt="Launch SDD Console"></a>
+  <a href="https://github.com/Sadique721/Sadique721/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security-Policy%20Active-10b981?style=for-the-badge&logo=github&logoColor=white&color=0b0f19&labelColor=1f293d" alt="Security Policy"></a>
+  <a href="https://github.com/Sadique721/Sadique721/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-SDD%20Guidelines-f59e0b?style=for-the-badge&logo=git&logoColor=white&color=0b0f19&labelColor=1f293d" alt="Contributing Guide"></a>
+</p>
+
+<p align="center">
+  <em>Built with Google Stitch Design System • Powered by GitHub Spec-Kit Standard • Md Sadique Amin</em>
+</p>
