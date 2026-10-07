@@ -1,0 +1,28 @@
+{
+  "name": "Sadique721 SDD & Java Architecture Codespace",
+  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "21"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.11"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "ms-python.python",
+        "github.copilot",
+        "github.copilot-chat",
+        "bierner.markdown-mermaid"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "echo '🚀 Sadique721 Codespace Ready! Spec-Kit & SDD Environment Initialized.'"
+}

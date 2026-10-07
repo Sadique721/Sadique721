@@ -1,0 +1,31 @@
+name: '🐛 Bug Assessment & Scoped Fix (SDD)'
+description: Isolate root cause and verify failure symptoms using Spec-Kit bug protocol
+title: '[BUG-ASSESS]: '
+labels: ['bug', 'spec-kit-bugfix']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Spec-Kit Bug Fixing Protocol
+        Separated assessment, scoped repair, and recorded verification (`/speckit-bug-assess`).
+  - type: textarea
+    id: symptoms
+    attributes:
+      label: 1. Observed Symptoms & Reproducibility
+      description: What unexpected behavior was observed? Include steps to reproduce.
+    validations:
+      required: true
+  - type: textarea
+    id: root-cause
+    attributes:
+      label: 2. Assessed Root Cause
+      description: What architectural component or invariant was breached?
+    validations:
+      required: true
+  - type: textarea
+    id: fix-scope
+    attributes:
+      label: 3. Scoped Fix & Verification Test
+      description: Minimal-diff fix plan and automated test to prevent regressions.
+    validations:
+      required: true

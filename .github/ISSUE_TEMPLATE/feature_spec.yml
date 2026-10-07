@@ -1,0 +1,31 @@
+name: '🌱 Feature Specification (SDD)'
+description: Propose a new feature governed by GitHub Spec-Kit Spec-Driven Development
+title: '[SPEC]: '
+labels: ['spec-driven-development', 'enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Spec-Kit Spec-Driven Feature Proposal
+        Define **WHAT and WHY** before deciding HOW.
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: 1. Problem Statement & Business Driver
+      description: What specific user pain point or enterprise requirement does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: 2. Core Functional Requirements & Invariants
+      description: List non-negotiable behaviors, constraints, and contracts.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: 3. Acceptance Criteria & Test Gates
+      description: Gherkin style (Given - When - Then) scenarios.
+    validations:
+      required: true
