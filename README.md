@@ -432,3 +432,94 @@ timeline
     section Placement
       2025 : Selected as Java Developer<br>@ Keyanna Technology Pvt Ltd, Ahmedabad (SHREE INFOTECH)<br>Recognized by Royal Technosoft
 ```
+
+
+---
+
+<!-- ========== 14. SPEC-DRIVEN DEVELOPMENT (SDD) & GITHUB SPEC-KIT ARCHITECTURE ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,50:0284c7,100:10b981&height=90&section=header&text=🌱%20SPEC-DRIVEN%20DEVELOPMENT%20(SDD)&fontSize=28&fontColor=ffffff&desc=Standardized%20with%20GitHub%20Spec-Kit%20%7C%20Zero-Drift%20AI-Agentic%20Engineering&descSize=14&descAlignY=68" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sadique721/spec-kit"><img src="https://img.shields.io/badge/GitHub-Spec--Kit%20Practitioner-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Spec-Kit"></a>
+  <a href="https://github.com/github/spec-kit"><img src="https://img.shields.io/badge/SDD-Spec--Driven%20Development-38bdf8?style=for-the-badge&logo=blueprint&logoColor=white" alt="Spec-Driven Development"></a>
+  <a href="https://github.com/Sadique721"><img src="https://img.shields.io/badge/AI%20Coding%20Agents-Copilot%20%7C%20Gemini%20%7C%20Claude-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Coding Agents"></a>
+  <a href="https://github.com/Sadique721"><img src="https://img.shields.io/badge/Architecture-Contract--First%20%26%20Converged-f59e0b?style=for-the-badge&logo=git&logoColor=white" alt="Contract-First"></a>
+</p>
+
+## 🌱 Engineering Excellence with GitHub Spec-Kit & Spec-Driven Development (SDD)
+
+> *"Define **what and why** before deciding **how** to build it. Turn complex requirements into verifiable specifications, architectural plans, and deterministic tasks before writing a single line of code."*
+
+As a modern software engineer building enterprise Java, Spring Boot microservices, and AI-agentic platforms, I adopt **Spec-Driven Development (SDD)** powered by the official **[GitHub Spec-Kit (github/spec-kit)](https://github.com/github/spec-kit)** toolkit. This methodology eliminates ambiguity, guarantees deterministic code quality, and aligns autonomous AI coding agents (Copilot, Gemini, Claude, Antigravity) with production invariants.
+
+### 🔄 The 6-Stage SDD Engineering Lifecycle
+
+```mermaid
+graph LR
+    A["📜 1. Constitution<br/><b>/speckit-constitution</b><br/>Invariants & Safety"] --> B["📋 2. Specification<br/><b>/speckit-specify</b><br/>Requirements & PRD"]
+    B --> C["🏛️ 3. Architecture Plan<br/><b>/speckit-plan</b><br/>Tech Stack & Contracts"]
+    C --> D["📝 4. Task Decomposition<br/><b>/speckit-tasks</b><br/>Deterministic Steps"]
+    D --> E["⚡ 5. Implementation<br/><b>/speckit-implement</b><br/>Agentic & Human Code"]
+    E --> F{"🎯 6. Quality Gate<br/><b>/speckit-converge</b><br/>Tests & Verification"}
+    F -- "Delta Found" --> E
+    F -- "Converged (Exit 0)" --> G["🚀 Production Release<br/>Zero-Drift Artifact"]
+    
+    style A fill:#111827,stroke:#38bdf8,stroke-width:2px,color:#f9fafb
+    style B fill:#111827,stroke:#38bdf8,stroke-width:2px,color:#f9fafb
+    style C fill:#111827,stroke:#38bdf8,stroke-width:2px,color:#f9fafb
+    style D fill:#111827,stroke:#38bdf8,stroke-width:2px,color:#f9fafb
+    style E fill:#111827,stroke:#10b981,stroke-width:2px,color:#f9fafb
+    style F fill:#111827,stroke:#f59e0b,stroke-width:2px,color:#f9fafb
+    style G fill:#0b0f19,stroke:#10b981,stroke-width:3px,color:#f9fafb
+```
+
+---
+
+### ⚙️ Spec-Kit Command Workflows in Action
+
+| Phase | Spec-Kit Skill / Command | Engineering Outcome & Governance Gate |
+| :--- | :--- | :--- |
+| **1. Constitution** | `/speckit-constitution` | Defines non-negotiable project invariants: test coverage gates, zero-drift security, REST API standards, and clean architecture. |
+| **2. Specification** | `/speckit-specify` | Formalizes features, edge cases, user journeys, data validation, and business logic before implementation. |
+| **3. Plan & Blueprint** | `/speckit-plan` | Establishes domain models, database schemas, API contracts (OpenAPI/gRPC), and modular decoupling. |
+| **4. Tasks Breakdown** | `/speckit-tasks` | Breaks plans into atomic, testable, and dependency-ordered tasks for predictable sprint velocity. |
+| **5. Implementation** | `/speckit-implement` | Implements business logic and tests against the approved specification using AI agents and pair-programming. |
+| **6. Convergence** | `/speckit-converge` | Verifies full implementation against the spec checklist, passing static analysis, security scans, and integration tests until 100% converged. |
+
+---
+
+### 🧩 Specialized Extensions & Quality Governance
+
+- 🐛 **Bug-Fixing Protocol (`specify extension add bug`)**:
+  - `/speckit-bug-assess`: Isolates root cause and reproduces failure symptoms before touching application code.
+  - `/speckit-bug-fix`: Implements scoped, minimal-diff fixes targeting only the verified root cause.
+  - `/speckit-bug-test`: Validates regression prevention and ensures verified green status (`.specify/bugs/<slug>/`).
+- 💡 **Idea Assessment Framework (`specify extension add assess`)**:
+  - `/speckit-assess-intake` → `/speckit-assess-research` → `/speckit-assess-shape` → `/speckit-assess-decide`: Delivers an evidence-backed **Go / Needs-Clarification / Kill** decision before capital or engineering effort is spent.
+
+---
+
+### 📊 Traditional Code-First vs. Spec-Driven Engineering (SDD)
+
+| Dimension | Traditional Code-First Development | Spec-Driven Development (GitHub Spec-Kit) |
+| :--- | :--- | :--- |
+| **Requirements Clarity** | Vague, shifting user stories with implicit assumptions | Formal, machine-readable specifications in `.specify/` |
+| **AI Agent Performance** | Hallucinations, scope creep, and architectural drift | Guided by constitution, explicit plans, and verifiable tasks |
+| **Bug Resolution** | Ad-hoc hotfixes causing collateral regressions | Separated assessment, scoped repair, and recorded verification |
+| **Quality Verification** | Manual checks and post-deployment firefighting | Continuous convergence testing against specification gates |
+| **Long-Term Maintainability** | Knowledge lost in chats and outdated docs | Living, version-controlled architecture memory |
+
+---
+
+### 📂 Featured SDD & Spec-Kit Repositories
+
+- 🌟 **[Sadique721/spec-kit](https://github.com/Sadique721/spec-kit)** — Active fork and customized enterprise templates for GitHub Spec-Kit.
+- ⚡ **[Sadique721/MSA-Router](https://github.com/Sadique721/MSA-Router)** — Local-first AI routing engine engineered with contract-first specifications and automated watchdog verification.
+- 🛍️ **[Sadique721/entitykart-enterprise-ecommerce-microservices](https://github.com/Sadique721/entitykart-enterprise-ecommerce-microservices)** — Cloud-native microservices architecture structured with specification-driven domain design and event contracts.
+- 🤖 **[Sadique721/antigravity-omniroute-engine](https://github.com/Sadique721/antigravity-omniroute-engine)** — Multi-agent AI orchestration architecture built on deterministic specifications and zero-cost routing.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0284c7,100:0b0f19&height=100&section=footer&width=100%">
+</p>
